@@ -1853,3 +1853,7 @@ ol {
 		font-size: 22px;
 	}
 }
+
+#about{
+	margin-top: -30px !important;
+}
